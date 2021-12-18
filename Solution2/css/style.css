@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+.navbar{
+ border-radius: 0px;
+  border: 0;
+  border-bottom: solid 3px black;
+  background-color: grey;
+}
+body{
+  background-color: white;
+  color: white;
+}
+
+
+.center{
+  width: 90%;
+  background-color: grey;
+
+}
+.navbar-brand{
+  font-size: 2em;
+}
+h1{
+  color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h2{
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px;
+}
+#myNavbar a{
+  color: black;
+  text-align: center;
+  background-color: white;
+  border-top: 1px solid black;
+  font-size: 1.2em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid black;
+
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+}
+#main{
+  font-size: 2em;
+  text-align: center;
+  padding: 6px;
+  font-weight: bold;
+}
+#sub{
+  padding: 15px;
+}
+#co{
+  background-color: grey;
+  margin: 10px;
+}
